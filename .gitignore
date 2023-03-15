@@ -1,0 +1,16 @@
+apps/inabay.net/node_modules
+apps/inabay.net/public/hot
+apps/inabay.net/public/storage
+apps/inabay.net/public/images
+apps/inabay.net/storage/*.key
+apps/inabay.net/vendor
+public_html/images/
+public_html/storage
+public_html/storage/*.key
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea

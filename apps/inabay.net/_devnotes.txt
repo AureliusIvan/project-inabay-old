@@ -1,0 +1,21 @@
+/vendor/jeroennoten/laravel-adminlte/resources/views/master.blade.php
+<link rel="stylesheet" href="{{ asset('vendor/adminlte/vendor/font-awesome/css/all.min.css') }}">
+
+Catatan Rudi:
+DONE Formulir kalo ada yang salah/ga keisi jangan di reset
+DONE Formulir wajib diisi semua
+DONE Keterangan JNE-reguler,yes --> masuk ke keterangan pengiriman
+DONE Kode booking tidak wajib isi
+DONE Daftar transaksi -> tambah no resi
+DONE Di depan poin tambah Rp.
+DONE Produk tambah deksripsi produk
+DONE Diskon dalam %/Rupiah
+DONE Daftar transaksi penjualan -> kurang ongkos kirim
+DONE Poin ditambah hanya jika barang sudah terkirim statusnya
+
+Register member harus di approve ADMIN
+
+Transaksi batal/diubah hanya bisa 30 menit setelah submit ==> HARUS KONTAK ADMIN UNTUK BATAL
+Retur barang -> poin batal
+Total penjualan bulan lalu& bulan ini
+Pembelian dengan poin: jumlah poin >= total tagihan dalam 1x pengiriman di luar ongkir.

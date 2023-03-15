@@ -1,0 +1,72 @@
+section.content .row h1 {
+    margin-top: 2px;
+}
+
+section.content-header h4{
+    margin:0;
+}
+
+section.content .header h1 {
+    font-size: 24px;
+}
+
+/*section.content{*/
+/*    padding-top: 0;*/
+/*}*/
+
+/*section.content .header a.btn{*/
+/*    margin-top: -10px;*/
+/*}*/
+
+.photo-action {
+    margin-top: 10px;
+}
+
+.register-box {
+    max-width: 600px;
+    min-width: 360px;
+    width: auto;
+}
+
+.product-details span {
+    display: block;
+}
+
+span.cart-qty-label,
+span.cart-qty {
+    /* display: block; */
+}
+
+span.cart-qty {
+    font-size: 1.5em;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.user-account ul li {
+    list-style: none;
+}
+
+.border-info {
+    border: 1px solid #00acd6;
+}
+
+.info-box small.label {
+    font-size: 75%;
+}
+
+.show-btn {
+    display: inline;
+}
+
+body.login-page, body.register-page {
+    background: #0c1114 !important;
+}
+
+.login-logo, .register-logo {
+    margin: 0 !important;
+}
+
+.login-box, .register-box {
+    margin: 3% auto !important;
+}
